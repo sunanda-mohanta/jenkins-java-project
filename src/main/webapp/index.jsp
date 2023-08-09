@@ -2,8 +2,8 @@
 <html>
 <head>
   
-  <h1> THIS IS MY SWIGGY acoount </h1>
-  <h1> I am learning devops </h1>
+  <h1> Welcome </h1>
+  <h1> Hello World </h1>
   
 
 </body>
